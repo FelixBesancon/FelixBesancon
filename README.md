@@ -2,10 +2,10 @@
   <img src="https://img.shields.io/badge/Open%20to-Work--Study-1f6feb?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C-555?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=000" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge" />
   <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/IBM%20SkillsBuild-Certified-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/IBM%20Certified-SkillsBuild-blue?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 <h1 align="center">Félix Besançon — Aspiring Software Developer</h1>
