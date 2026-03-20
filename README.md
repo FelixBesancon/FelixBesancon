@@ -47,6 +47,26 @@
 - 🚀 Actively seeking a **work-study opportunity** (alternance) in France
 - 🧩 I enjoy **structured projects**, **clean architecture** and **continuous improvement**
 
+## 🎯 Work-study (alternance) search
+
+- 📍 Looking for a work-study opportunity in software development (alternance)
+- 📅 Starting September / October 2026
+- 🔄 Rhythm: 3 weeks in company / 1 week at school
+- 💼 Bringing motivation, curiosity, and a strong professional background
+- 🚀 Goal: grow within a team, build solid technical skills, and move toward a specialization in Machine Learning
+
+---
+
+## 🛠️ Tech stack
+*Curious about innovation, I'm always learning and exploring new tools through both school projects and personal practice.*
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,bash,git,github,mysql,sqlite,linux,vscode,wordpress" />
+</p>
+<sub>+ **Markdown**, **Mermaid**, **REST APIs**, **CLI tools**, **Advanced Excel** & **VBA**</sub>
+
+---
+
 ## 🔭 Currently working on
 
 - JavaScript **DOM manipulation**
@@ -58,16 +78,6 @@
 - 🏆 Participating in a **hackathon with Bordeaux Métropole & Latitude** focused on **climate risk prevention**, where we design a concrete data-driven solution as a team (data analysis, ideation, prototyping and presentation)
 - 📌 End-of-year project focused on **building a larger-scale application from design to implementation**
 - 🤖 Preparing for a **second-year specialization in Machine Learning**
-
----
-
-## 🎯 Work-study (alternance) search
-
-- 📍 Looking for a work-study opportunity in software development (alternance)
-- 📅 Starting September / October 2026
-- 🔄 Rhythm: 3 weeks in company / 1 week at school
-- 💼 Bringing motivation, curiosity, and a strong professional background
-- 🚀 Goal: grow within a team, build solid technical skills, and move toward a specialization in Machine Learning
 
 ---
 
@@ -88,16 +98,6 @@ Unix shell written in C.
 Reimplementation of `printf` in C.
 - Format parsing, variadic functions
 - Emphasis on modularity and low-level understanding
-
----
-
-## 🛠️ Tech stack
-*Curious about innovation, I'm always learning and exploring new tools through both school projects and personal practice.*
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,js,html,css,bash,git,github,mysql,sqlite,linux,vscode,wordpress" />
-</p>
-<sub>+ **Markdown**, **Mermaid**, **REST APIs**, **CLI tools**, **Advanced Excel** & **VBA**</sub>
 
 ---
 
