@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=000" />
   <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IBM%20SkillsBuild-Certified-blue?style=flat-square" />
 </p>
 
 <h1 align="center">Félix Besançon — Aspiring Software Developer</h1>
@@ -63,6 +64,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,js,html,css,bash,git,github,mysql,sqlite,linux,vscode,wordpress" />
 </p>
+
 <sub>+ **Markdown**, **Mermaid**, **REST APIs**, **CLI tools**, **Advanced Excel** & **VBA**</sub>
 
 ---
@@ -78,6 +80,36 @@
 - 🏆 Participating in a **hackathon with Bordeaux Métropole & Latitude** focused on **climate risk prevention**, where we design a concrete data-driven solution as a team (data analysis, ideation, prototyping and presentation)
 - 📌 End-of-year project focused on **building a larger-scale application from design to implementation**
 - 🤖 Preparing for a **second-year specialization in Machine Learning**
+
+---
+
+## 🏅 Certifications
+
+### 📜 Introduction to Open Source
+
+<p>
+  <a href="https://github.com/FelixBesancon/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-oss.pdf">
+    <img src="https://raw.githubusercontent.com/FelixBesancon/holbertonschool-france-certificates-ibm/main/images/open-source-foundations.png" width="160"/>
+  </a>
+</p>
+
+- IBM SkillsBuild certification  
+- Fundamentals of open source and collaborative development  
+- Git & GitHub basics, workflows and version control  
+- Introduction to contributing to open source projects  
+
+### 📜 Introduction to Agile
+
+<p>
+  <a href="https://github.com/FelixBesancon/holbertonschool-france-certificates-ibm/blob/main/certificates-trimester-1/certificate-agile.pdf">
+    <img src="https://raw.githubusercontent.com/FelixBesancon/holbertonschool-france-certificates-ibm/main/images/agile-explorer.png" width="160"/>
+  </a>
+</p>
+
+- IBM SkillsBuild certification  
+- Agile values, principles and core practices  
+- Team collaboration, workflows and iterative development  
+- Applying Agile methods in real-world contexts  
 
 ---
 
