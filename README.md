@@ -116,10 +116,11 @@
 ## 🚀 Featured projects
 *A selection of projects reflecting my progression in system programming and backend development.*
 
-### 🔹 [HBnB (Airbnb Clone)](https://github.com/AdeleM-prog/holbertonschool-hbnb)
+### 🔹 [HBnB (Airbnb Clone)](https://github.com/FelixBesancon/holbertonschool-hbnb)
 Full-stack backend project inspired by Airbnb.
 - REST API + MySQL database
 - Object modeling, persistence layer, and architecture design
+- *Forked from https://github.com/AdeleM-prog/holbertonschool-hbnb*
 
 ### 🔹 [Simple Shell](https://github.com/FelixBesancon/holbertonschool-simple_shell)
 Unix shell written in C.
