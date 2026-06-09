@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/IBM%20Certified-SkillsBuild-blue?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
-<h1 align="center">Félix Besançon — Aspiring Software Developer</h1>
+<h1 align="center">Félix Besançon - Aspiring Software Developer</h1>
 
 <h3 align="center">Career-switching software developer • Bachelor CDA student • Focused on clean code & real-world projects</h3>
 
@@ -44,8 +44,8 @@
 ## 💫 About me
 
 - 🎓 Career switcher currently studying **Application Design & Development (CDA Bachelor)**
-- 💻 Building strong foundations in **C, Python, SQL and full-stack web development**
-- 🚀 Actively seeking a **work-study opportunity** (alternance) in France
+- 💻 Developing full-stack applications through **systems programming, backend architecture and real-world projects**.
+- 🚀 Actively seeking a **work-study opportunity** (alternance) in Bordeaux
 - 🧩 I enjoy **structured projects**, **clean architecture** and **continuous improvement**
 
 ## 🎯 Work-study (alternance) search
@@ -71,15 +71,21 @@
 
 ## 🔭 Currently working on
 
-- JavaScript **DOM manipulation**
-- Python **server-side rendering & async programming**
-- Building the **frontend layer of a REST API (HTML/CSS + MySQL)**
+### 🎬 CineMood (Solo Full-Stack Project)
+- Building a movie discovery and tracking platform
+- React frontend + FastAPI backend / PostgreSQL database
+- TMDB & MistralAI API integration
+- Mood-based recommendations powered by LLMs
+- Product design, architecture and implementation
 
-## 🌱 Future projects
+---
 
-- 🏆 Participating in a **hackathon with Bordeaux Métropole & Latitude** focused on **climate risk prevention**, where we design a concrete data-driven solution as a team (data analysis, ideation, prototyping and presentation)
-- 📌 End-of-year project focused on **building a larger-scale application from design to implementation**
-- 🤖 Preparing for a **second-year specialization in Machine Learning**
+## 🌱 Learning & Exploration
+
+- Advanced JavaScript & TypeScript
+- API design and backend architecture
+- AI-assisted recommendation systems
+- Docker and deployment workflows
 
 ---
 
@@ -116,19 +122,43 @@
 ## 🚀 Featured projects
 *A selection of projects reflecting my progression in system programming and backend development.*
 
+### 🔹 [CineMood](https://github.com/FelixBesancon/holbertonschool-CineMood)
+> Full-stack web application designed to help users discover and track movies based on their mood, preferences and viewing habits.
+- React frontend + FastAPI backend
+- PostgreSQL database
+- Integration with TMDB and Watchmode APIs
+- AI-assisted recommendations using LLMs
+- Mood-based discovery, custom tags and swipe interface
+- Designed and developed as a solo end-of-year project
+
+**Focus:** product design, API integration, clean architecture and full-stack development.
+
+
+### 🔹 [Urban Resilience Simulator – Bordeaux Métropole Hackathon](https://github.com/FelixBesancon/Hackathon_Bdx_Metropole)
+> 3rd place project developed during the Bordeaux Métropole Hackathon.
+- Interactive web application focused on urban heat islands and climate resilience
+- Visualization and aggregation of real open-data datasets
+- Interactive map with citizen-driven simulations
+- Next.js, Express.js, PostgreSQL, Prisma and Leaflet
+- Worked on data integration, visualization and territorial data analysis
+
+**Focus:** data-driven design, geospatial data, teamwork and rapid prototyping.
+
+
+
 ### 🔹 [HBnB (Airbnb Clone)](https://github.com/FelixBesancon/holbertonschool-hbnb)
-Full-stack backend project inspired by Airbnb.
+> Full-stack backend project inspired by Airbnb.
 - REST API + MySQL database
 - Object modeling, persistence layer, and architecture design
 - *Forked from https://github.com/AdeleM-prog/holbertonschool-hbnb*
 
 ### 🔹 [Simple Shell](https://github.com/FelixBesancon/holbertonschool-simple_shell)
-Unix shell written in C.
+> Unix shell written in C.
 - Command execution, process handling, parsing
 - Focus on system programming and memory management
 
 ### 🔹 [Custom printf](https://github.com/FelixBesancon/holbertonschool-printf)
-Reimplementation of `printf` in C.
+> Reimplementation of `printf` in C.
 - Format parsing, variadic functions
 - Emphasis on modularity and low-level understanding
 
